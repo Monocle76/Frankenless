@@ -1,0 +1,32 @@
+body {
+    max-width: 1000px;
+    margin: 50px auto;
+    background-color: rgb(23, 17, 36);
+    font-family: "Sora";
+    padding: 10px 40px;
+}
+p {
+    color: rgb(88, 73, 119);
+    line-height: 30px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+.btn {
+    padding: 10px 20px;
+    font-family: inherit;
+    font-size: 16px;
+    border: none;
+    background-color: rgb(82, 41, 169);
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: rgb(145, 96, 252);
+}
+.btn:active {
+    background-color: rgb(74, 43, 139);
+}
